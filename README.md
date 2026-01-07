@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently work as a Freelancer as a Digital Marketer and also a Full Stack Developer<br>and Continue learning new technology with I mean always
+I’m a freelance Digital Marketer and Full-Stack Developer with a strong focus on building scalable digital solutions and driving measurable online growth. I work at the intersection of technology and marketing, combining clean code with data-driven strategies to deliver real-world impact. Passionate about continuous learning, I actively explore new tools, frameworks, and emerging technologies to stay ahead in a fast-evolving tech landscape. I enjoy collaborating with teams and clients to turn ideas into efficient, user-focused products.
 
 
 ## 🌐 Socials:
