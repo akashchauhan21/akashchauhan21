@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a freelance Digital Marketer and Full-Stack Developer with a strong focus on building scalable digital solutions and driving measurable online growth. I work at the intersection of technology and marketing, combining clean code with data-driven strategies to deliver real-world impact. Passionate about continuous learning, I actively explore new tools, frameworks, and emerging technologies to stay ahead in a fast-evolving tech landscape. I enjoy collaborating with teams and clients to turn ideas into efficient, user-focused products.
+I am a motivated and detail-oriented aspiring Data Analyst with a strong interest in transforming data into meaningful insights that support business decisions. Skilled in data cleaning, analysis, visualization, and reporting, I enjoy working with datasets to identify trends and solve real-world problems. I have a solid foundation in SQL, Excel, Python, and data visualization tools such as Power BI and Tableau. As a continuous learner, I actively explore new analytical techniques and technologies to strengthen my skills and stay current with industry trends. I am eager to contribute to a collaborative team, apply my analytical mindset, and grow as a Data Analyst while delivering data-driven solutions.
 
 
 ## 🌐 Socials:
